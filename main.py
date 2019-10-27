@@ -1,3 +1,4 @@
+#coding=utf8
 from account import BankAccount
 
 bank1 = BankAccount('dg','12345',500)
